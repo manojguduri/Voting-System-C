@@ -1,11 +1,16 @@
 # Voting System
 
 This project is a voting system designed to accept the registration numbers (regd No's) of students from our college (GITAM) as user IDs. 
+
 Format: VUYYBBBBRRRRRRR
 where,
+
 VU is campus name.
+
 YY is Year.
+
 BBBB is Branch Code
+
 RRRRRRR is Roll number. [Example : VU21EECE0100099, HU22CSEN0100152, BU20MECH0301256]
 
 It is suitable for managing elections with varying numbers of voters, from small to large scale.
