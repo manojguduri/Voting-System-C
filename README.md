@@ -28,6 +28,8 @@ The system stores the voting records in text files and updates them accordingly.
 - **Voting Record Storage**: Voting records are stored in text files for record-keeping and analysis.
 - **Scalability**: The system is designed to handle elections of varying sizes, accommodating both small-scale and large-scale voting processes.
 
+**PS**: The adminID is "Admin" and Password is "Gitam$$123"
+
 ## Usage
 
 To use the voting system:
